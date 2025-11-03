@@ -1,4 +1,5 @@
 Real-Time Facial Recognition Security System
+
 This project is a client-server application that provides real-time facial recognition for security and access control. The client captures video from a webcam, streams it to a server, and the server processes the feed to identify individuals against a database of known faces, granting or denying access accordingly.
 
 How It Works
