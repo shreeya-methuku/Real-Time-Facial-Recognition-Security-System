@@ -117,10 +117,6 @@ project-directory/
 - Implement proper authentication and authorization mechanisms.
 - Secure the access log file with appropriate permissions.
 
-## License
-
-This project is provided as-is for educational and demonstration purposes.
-
 ## Acknowledgments
 
 - Built using the `face_recognition` library by Adam Geitgey
